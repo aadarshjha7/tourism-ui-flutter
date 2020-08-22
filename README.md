@@ -1,4 +1,4 @@
-# uichallenge2
+# Tourism ui
 
 A new Flutter application.
 
